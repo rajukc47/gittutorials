@@ -12,3 +12,5 @@
 **************Pushing to remote github from local*******
 -git remote add origin "https://github.com/rajukc47/gittutorials.git"
 -git push -u origin master
+*************Cloning Remote project to local machine**************
+-git clone "https://github.com/rajukc47/gittutorials.git"
