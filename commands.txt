@@ -1,3 +1,7 @@
 **************Git Commands and Documentation*************
 - git init (to initialize git)
 - git status(to check status of git project)
+- git add filename.txt( to add file for tracking)
+- git add *.html ( adding file using wild card)
+- git add . ( to add all files)
+- git commit -m 'commit messages'
