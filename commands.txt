@@ -10,5 +10,5 @@
 - git config --global user.name "your github username"
 
 **************Pushing to remote github from local*******
--git remote add origin "github project url"
+-git remote add origin "https://github.com/rajukc47/gittutorials.git"
 -git push -u origin master
