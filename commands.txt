@@ -8,6 +8,7 @@
 **************Global Configuration **********
 - git config --global user.email "yourgithub email"
 - git config --global user.name "your github username"
+- git config --list ( list outs all the global config)
 
 **************Pushing to remote github from local*******
 -git remote add origin "https://github.com/rajukc47/gittutorials.git"
