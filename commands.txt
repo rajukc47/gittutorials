@@ -25,3 +25,10 @@
 -git log ( will show the commit history
 -git show ( will display the content of file details)
 -git help ( will display lists of commands)
+
+***************email notification and configuration*****
+-select the repository
+-goto settings
+-select integration and services from left menu
+-click on add services and type email
+-type email on address and tick on sender from author and active
