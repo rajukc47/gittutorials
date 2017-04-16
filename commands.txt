@@ -5,3 +5,10 @@
 - git add *.html ( adding file using wild card)
 - git add . ( to add all files)
 - git commit -m 'commit messages'
+**************Global Configuration **********
+- git config --global user.email "yourgithub email"
+- git config --global user.name "your github username"
+
+**************Pushing to remote github from local*******
+-git remote add origin "github project url"
+-git push -u origin master
