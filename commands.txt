@@ -12,5 +12,9 @@
 **************Pushing to remote github from local*******
 -git remote add origin "https://github.com/rajukc47/gittutorials.git"
 -git push -u origin master
-************
+************ Cloning and Pulling remote file**************
 -git clone "https://github.com/rajukc47/gittutorials.git"
+-git pull "https://github.com/rajukc47/gittutorials.git"
+
+**********creating new file*************************
+-touch filename.txt (command will create filename.txt file)
