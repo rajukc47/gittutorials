@@ -23,8 +23,13 @@
 -touch filename.txt (command will create filename.txt file)
 
 *********more commands*************
--git log ( will show the commit history
+-git log ( will show the commit history)
+-git log --author="author name" ( filter log by author 
 -git show ( will display the content of file details)
+-git diff ( will show the difference file content)
+-git diff --staged(show diff between repository and staged)
+-git checkout --index.html ( undo changes or staging back)
+-git checkout 4d7gkk --index.html (undoing or getting old version upto commit id)
 -git help ( will display lists of commands)
 
 ***************email notification and configuration*****
