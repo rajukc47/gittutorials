@@ -4,7 +4,7 @@
 - git add filename.txt( to add file for tracking)
 - git add *.html ( adding file using wild card)
 - git add . ( to add all files)
-- git commit -m 'commit messages'
+- git commit -m 'commit messages' (before commit always use git add .)
 **************Global Configuration **********
 - git config --global user.email "yourgithub email"
 - git config --global user.name "your github username"
@@ -12,9 +12,16 @@
 **************Pushing to remote github from local*******
 -git remote add origin "https://github.com/rajukc47/gittutorials.git"
 -git push -u origin master
+
 ************ Cloning and Pulling remote file**************
--git clone "https://github.com/rajukc47/gittutorials.git"
+-git clone "https://github.com/rajukc47/gittutorials.git"  
+			OR
 -git pull "https://github.com/rajukc47/gittutorials.git"
 
 **********creating new file*************************
 -touch filename.txt (command will create filename.txt file)
+
+*********more commands*************
+-git log ( will show the commit history
+-git show ( will display the content of file details)
+-git help ( will display lists of commands)
